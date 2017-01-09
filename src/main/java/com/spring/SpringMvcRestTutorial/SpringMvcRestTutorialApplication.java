@@ -15,4 +15,6 @@ public class SpringMvcRestTutorialApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringMvcRestTutorialApplication.class, args);
 	}
+	
+	//new line comment is added
 }
