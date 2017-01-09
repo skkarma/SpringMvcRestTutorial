@@ -17,4 +17,5 @@ public class SpringMvcRestTutorialApplication {
 	}
 	
 	//new line comment is added
+	//another new line is added
 }
