@@ -3,6 +3,12 @@ package com.spring.SpringMvcRestTutorial;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * 
+ * @author Sachin.Karma
+ * Spring Configuration file
+ *
+ */
 @SpringBootApplication
 public class SpringMvcRestTutorialApplication {
 
